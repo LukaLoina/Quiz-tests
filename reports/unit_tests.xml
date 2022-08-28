@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="2.662">
+  <testsuite name="fetch api" errors="0" failures="0" skipped="0" timestamp="2022-08-30T16:52:16" time="1.859" tests="1">
+    <testcase classname="fetch api starts quiz" name="fetch api starts quiz" time="0.048">
+    </testcase>
+  </testsuite>
+  <testsuite name="question component" errors="0" failures="0" skipped="0" timestamp="2022-08-30T16:52:17" time="1.689" tests="2">
+    <testcase classname="question component renders question fetched from backend" name="question component renders question fetched from backend" time="0.068">
+    </testcase>
+    <testcase classname="question component does not render if fetching fails" name="question component does not render if fetching fails" time="0.012">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,7 @@
+* zahtjevi sustava
+- vrijeme trajanja kviza je 7 minuta
+- vrijeme za svako pitanje je 5 sekundi
+- vrijeme između pitanja je 2 sekunde
+- pitanja se sastoje od zadatka oduzimanja dva troznamenkasta broja
+
+

@@ -1,0 +1,6 @@
+[submodule "quiz-server"]
+	path = quiz-server
+	url = git@github.com:LukaLoina/quiz-server.git
+[submodule "quiz-frontend"]
+	path = quiz-frontend
+	url = git@github.com:LukaLoina/quiz-frontend.git
